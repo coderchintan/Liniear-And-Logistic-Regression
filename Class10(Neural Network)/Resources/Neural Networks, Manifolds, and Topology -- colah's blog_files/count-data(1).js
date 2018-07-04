@@ -1,0 +1,5 @@
+var DISQUSWIDGETS;
+
+if (typeof DISQUSWIDGETS != 'undefined') {
+    DISQUSWIDGETS.displayCount({"text":{"and":"and","comments":{"zero":"0 Comments","multiple":"{num} Comments","one":"1 Comment"}},"counts":[{"id":"\/posts\/2014-03-NN-Manifolds-Topology\/disqussion-2","comments":0},{"id":"\/posts\/2014-03-NN-Manifolds-Topology\/disqussion-19","comments":0},{"id":"\/posts\/2014-03-NN-Manifolds-Topology\/disqussion-17","comments":5},{"id":"\/posts\/2014-03-NN-Manifolds-Topology\/disqussion-23","comments":0},{"id":"\/posts\/2014-03-NN-Manifolds-Topology\/disqussion-22","comments":0},{"id":"\/posts\/2014-03-NN-Manifolds-Topology\/disqussion-18","comments":0},{"id":"\/posts\/2014-03-NN-Manifolds-Topology\/disqussion-20","comments":0},{"id":"\/posts\/2014-03-NN-Manifolds-Topology\/disqussion-21","comments":0},{"id":"\/posts\/2014-03-NN-Manifolds-Topology\/disqussion-25","comments":0},{"id":"\/posts\/2014-03-NN-Manifolds-Topology\/disqussion-24","comments":0}]});
+}
